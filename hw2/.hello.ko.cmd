@@ -1,0 +1,1 @@
+cmd_/home/oslab/HW2/hello.ko := ld -r -m elf_i386 -T /usr/src/linux-headers-3.8.0-29-generic/scripts/module-common.lds --build-id  -o /home/oslab/HW2/hello.ko /home/oslab/HW2/hello.o /home/oslab/HW2/hello.mod.o
