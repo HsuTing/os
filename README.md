@@ -16,19 +16,19 @@
 
 ##HW3
 
-***Purpose***
+**Purpose**
 
 ```
 	thread
 ```
 
-***use***
+**use**
 
 ```
 	./thread
 ```
 
-***compile***
+**compile**
 
 ```
 	gcc hw3.c -o hw3 -pthread
