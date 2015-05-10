@@ -16,8 +16,22 @@
 
 ##HW3
 
+###Purpose
+
 ```
 	thread
+```
+
+###use
+
+```
+	./thread
+```
+
+###compile
+
+```
+	gcc hw3.c -o hw3 -pthread
 ```
 
 ##hw4
